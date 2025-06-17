@@ -1,2 +1,25 @@
-# portfolio-simple-website
-A clean and responsive personal portfolio website built with HTML, CSS, and JavaScript. This site showcases my skills, projects, and contact information in a modern, user-friendly design. Perfect for highlighting professional work and sharing with potential employers or clients. 
+📁 Portfolio Website
+This is a personal portfolio website built using simple HTML and CSS. It showcases my skills, projects, and contact information in a clean and responsive layout.
+
+🌐 Features:
+Fully responsive design (desktop & mobile friendly)
+
+Clean and minimal user interface
+
+Sections include:
+
+About Me
+
+Projects
+
+Skills
+
+Contact
+
+🚀 Technologies Used:
+HTML5
+
+CSS3 (no frameworks)
+
+📌 Purpose:
+This project was created to build a personal online presence and demonstrate basic front-end development skills.
